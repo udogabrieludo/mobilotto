@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mymobilotto/static/css/main.fc86860f.chunk.css",
+    "main.js": "/mymobilotto/static/js/main.23758528.chunk.js",
+    "main.js.map": "/mymobilotto/static/js/main.23758528.chunk.js.map",
+    "runtime-main.js": "/mymobilotto/static/js/runtime-main.9094f7d7.js",
+    "runtime-main.js.map": "/mymobilotto/static/js/runtime-main.9094f7d7.js.map",
+    "static/css/2.c1be056d.chunk.css": "/mymobilotto/static/css/2.c1be056d.chunk.css",
+    "static/js/2.a7c45a4b.chunk.js": "/mymobilotto/static/js/2.a7c45a4b.chunk.js",
+    "static/js/2.a7c45a4b.chunk.js.map": "/mymobilotto/static/js/2.a7c45a4b.chunk.js.map",
+    "index.html": "/mymobilotto/index.html",
+    "precache-manifest.198026fb222d51b4bc4cf032e7505916.js": "/mymobilotto/precache-manifest.198026fb222d51b4bc4cf032e7505916.js",
+    "service-worker.js": "/mymobilotto/service-worker.js",
+    "static/css/2.c1be056d.chunk.css.map": "/mymobilotto/static/css/2.c1be056d.chunk.css.map",
+    "static/css/main.fc86860f.chunk.css.map": "/mymobilotto/static/css/main.fc86860f.chunk.css.map",
+    "static/js/2.a7c45a4b.chunk.js.LICENSE.txt": "/mymobilotto/static/js/2.a7c45a4b.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/mymobilotto/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9094f7d7.js",
+    "static/css/2.c1be056d.chunk.css",
+    "static/js/2.a7c45a4b.chunk.js",
+    "static/css/main.fc86860f.chunk.css",
+    "static/js/main.23758528.chunk.js"
+  ]
+}
